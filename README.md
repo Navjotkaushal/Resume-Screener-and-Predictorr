@@ -38,6 +38,7 @@ This is a **binary classification** problem. The target variable is `shortlisted
 
 ## 🖥️ Demo
 
+https://navjotkaushal-resume-screener-and-predictorr-app-vxosmt.streamlit.app/
 | Tab | What it shows |
 |-----|--------------|
 | 🏠 Overview | Dataset stats, shortlist rate, education breakdown |
